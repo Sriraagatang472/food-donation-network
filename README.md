@@ -33,3 +33,10 @@ A web-based system that connects food providers (restaurants, homes, hostels) wi
 
 ## Run the Project
 Start Apache server:
+sudo systemctl start apache2
+http://localhost
+
+
+## Author
+Sri Raaga Tangirala - 2420030472
+Thota Usha Sri Sai - 2420030033
